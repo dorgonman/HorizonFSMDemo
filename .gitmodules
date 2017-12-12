@@ -1,0 +1,9 @@
+[submodule "horizon_ci_scripts"]
+	path = horizon_ci_scripts
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/horizon_ci_scripts
+[submodule "ue_ci_scripts"]
+	path = ue_ci_scripts
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/ue_ci_scripts
+[submodule "Plugins/HorizonFSM"]
+	path = Plugins/HorizonFSM
+	url = https://horizon-studio.visualstudio.com/DefaultCollection/UE4HorizonPlugin/_git/HorizonFSM
